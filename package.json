@@ -1,0 +1,16 @@
+{
+  "name": "node-cookie-test",
+  "version": "0.0.1",
+  "description": "a cookie test demo",
+  "repository": "git@github.com:jiangrongyong/mesktop.git",
+  "author": "jiangrongyong<jiangrongyong@gmail.com>",
+  "main": "app.js",
+  "contributors": [ 
+    { "name": "jiangrongyong", "email": "jiangrongyong@gmail.com" }
+  ],
+  "dependencies": {
+    "express": ">= 2.5.8"
+  },
+  "keywords": ["cookie"],
+  "engines": { "node": ">= 0.6.5" }
+}
