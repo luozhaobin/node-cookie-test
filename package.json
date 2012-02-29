@@ -2,7 +2,7 @@
   "name": "node-cookie-test",
   "version": "0.0.1",
   "description": "a cookie test demo",
-  "repository": "git@github.com:jiangrongyong/mesktop.git",
+  "repository": "git@github.com:jiangrongyong/node-cookie-test.git",
   "author": "jiangrongyong<jiangrongyong@gmail.com>",
   "main": "app.js",
   "contributors": [ 
